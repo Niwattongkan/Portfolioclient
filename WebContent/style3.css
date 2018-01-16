@@ -1,0 +1,12 @@
+#button1 {
+    font-family: "Times New Roman", Times, serif;
+    width: 100px;
+    height: 50px;
+	padding: 10px;
+    margin-left: 20px;
+}
+
+.panel{
+	margin-left: 550px;
+	width: 600px;
+}

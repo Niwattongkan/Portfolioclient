@@ -1,0 +1,13 @@
+/* css */
+
+.red{
+    color:red;
+    }
+  .form-area
+  {
+    width: 1000px;
+    border: 5px solid green;
+    padding: 50px;
+    margin: 150px;
+    background-color: #FAFAFA;
+  }
